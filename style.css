@@ -1,0 +1,33 @@
+body {
+  width: 33%;
+}
+
+#res {
+  background-color: lightgray;
+  font-size: 20px;
+  border-style: solid;
+  height: 48px;
+}
+
+#btns > button {
+  width: 25%;
+  height: 36px;
+  font-size: 18px;
+  margin: 0px;
+  float: left;
+}
+
+.btnNum {
+  background-color: lightgreen;
+  color: brown;
+}
+
+.btnOpt {
+  background-color: black;
+  color: red;
+}
+
+.btnRes {
+  background-color: darkgreen;
+  color: white;
+}
